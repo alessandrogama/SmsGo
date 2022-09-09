@@ -8,4 +8,9 @@ Create service to use the platform as a service Twilio to send a text message us
 ``` bash
 # git clone repository
 $ git clone https://github.com/alessandrogama/SmsGo
+
+# rename .envexample
+$ .envexample -> .env
+
+# Add your credentials Twilio
 ```
